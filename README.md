@@ -10,7 +10,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/m2zm-1/m2zm-1/output/snake.svg" alt="Snake animation" />
+>
 
 ###
 
@@ -33,11 +33,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
-
-###
-
-<div align="center">
-  <img height="200" src="https://imgflip.com/gif/99y6hp"  />
-</div>
-
-###
