@@ -1,22 +1,19 @@
 <h1 align="center">M2_ZM</h1>
 <div align="center">
-  <h5>Self Taught Programmer</h5>
-  <h6>Driven by curiosity, I’m always discovering new things and growing along the way.</h6>
+  <h5>Programmer :D </h5>
+  <h6>Beginner Programmer</h6>
 </div>
 <div align="center">
   <h3>Languages</h3>
   <img src="https://svgl-badge.vercel.app/api/Language/C%2B%2B?theme=dark"/>
   <img src="https://svgl-badge.vercel.app/api/Language/Python?theme=dark"/>
-  <img src="https://svgl-badge.vercel.app/api/Language/Lua?theme=dark"/>
   <img src="https://svgl-badge.vercel.app/api/Language/JavaScript?theme=dark"/>
-  <img src="https://svgl-badge.vercel.app/api/Language/HTML5?theme=dark"/>
   <img src="https://svgl-badge.vercel.app/api/Language/CSS?theme=dark"/>
 </div>
 <div align="center">
   <h3>Tools</h3>
   <img src="https://svgl-badge.vercel.app/api/Software/Visual%20Studio?theme=dark"/>
   <img src="https://svgl-badge.vercel.app/api/Software/Visual%20Studio%20Code?theme=dark"/>
-  <img src="https://svgl-badge.vercel.app/api/Software/Git?theme=dark"/>
   <img src="https://svgl-badge.vercel.app/api/Software/Github?theme=dark"/>
   <img src="https://svgl-badge.vercel.app/api/Library/Node.js?theme=dark"/>
 </div>
