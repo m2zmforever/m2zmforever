@@ -1,6 +1,6 @@
 <h1 align="center">M2_ZM</h1>
 <div align="center">
-  <h5>Programmer :D </h5>
+  <h5>Hi!</h5>
   <h6>Beginner Programmer</h6>
 </div>
 <div align="center">
