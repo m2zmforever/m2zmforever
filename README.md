@@ -39,15 +39,8 @@
   <a href="mailto:m2zmforever@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=m2zmforever&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Website&logo=medium&label=&color=000000&logoColor=000000&labelColor=&style=for-the-badge" height="40" alt="medium logo"  />
+  <a href="https://m2zm.ct.ws" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Website&logo=medium&label=&color=000000&logoColor=000000&labelColor=&style=for-the-badge" height="40" alt="medium logo"  />
+  </a>
 </div>
 
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/m2zm-1/m2zm-1/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/m2zm-1/m2zm-1/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/m2zm-1/m2zm-1/output/pacman-contribution-graph.svg">
-</picture>
-
-###
