@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://discord.com/users/874969941583999037">
-    <img src="https://dcbadge.limes.pink/api/shield/874969941583999037" alt="Discord User Badge">
+    <img src="https://dcbadge.limes.pink/api/shield/874969941583999037" alt="">
   </a>
   <br><br>
   <a href="https://discord.com/users/874969941583999037">
