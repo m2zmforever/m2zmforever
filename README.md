@@ -1,5 +1,5 @@
 <p align="center" style="font-size:17px;">
-Well, Welcome to my profile.
+Well, Welcome to my page.
 </p>
 
 <p align="center" style="font-size:17px;">
